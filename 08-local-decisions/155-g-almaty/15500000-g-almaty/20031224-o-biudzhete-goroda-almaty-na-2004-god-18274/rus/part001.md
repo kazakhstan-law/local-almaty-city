@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/18274/rus/28.07.2004
+source: https://zan.gov.kz/client/#!/doc/18274/rus/19.10.2004
 ---
 
 ## Перечень текущий бюджетных программ
