@@ -15,7 +15,10 @@ versions:
 - date: 1999-02-25
   languages:
   - rus
+- date: 1999-05-12
+  languages:
+  - rus
 version_date:
-  rus: 1999-02-25
+  rus: 1999-05-12
 source:
-  rus: https://zan.gov.kz/client/#!/doc/2624/rus/25.02.1999
+  rus: https://zan.gov.kz/client/#!/doc/2624/rus/12.05.1999
