@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49432/rus/22.10.2010
+source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 ---
 
 ## БЮДЖЕТ ГОРОДА АЛМАТЫ НА 2012 ГОД
