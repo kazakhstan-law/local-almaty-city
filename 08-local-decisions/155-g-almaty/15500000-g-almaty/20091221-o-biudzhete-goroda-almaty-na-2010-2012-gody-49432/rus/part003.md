@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
+source: https://zan.gov.kz/client/#!/doc/49432/rus/13.12.2010
 ---
 
 ## БЮДЖЕТ ГОРОДА АЛМАТЫ НА 2012 ГОД
@@ -1823,12 +1823,12 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>65 800 499</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>III. Чистое бюджетное кредитование</th>
-<th>-1600000</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>III. Чистое бюджетное кредитование</td>
+<td>-1600000</td>
 </tr>
 <tr>
 <td></td>

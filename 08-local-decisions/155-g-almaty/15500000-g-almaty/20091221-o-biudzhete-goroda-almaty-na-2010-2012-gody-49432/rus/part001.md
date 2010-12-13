@@ -1,31 +1,35 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
+source: https://zan.gov.kz/client/#!/doc/49432/rus/13.12.2010
 ---
 
 ## БЮДЖЕТ ГОРОДА АЛМАТЫ НА 2010 ГОД
 
-> *Сноска. Приложение 1 в редакции решения Маслихата города Алматы от 18.11.2010 N 863 (вводится в действие с 01.01.2010).*
+> *Сноска. Приложение 1 в редакции решения Маслихата города Алматы от 13.12.2010 N 373 (вводится в действие с 01.01.2010)*
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тыс.тенге)</td>
+<td colspan="3">Категория</td>
+<td colspan="2"></td>
+<td rowspan="2">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс Наименование</td>
+<td colspan="2">Класс</td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <th colspan="4">1</th>
@@ -33,12 +37,20 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th>3</th>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <th></th>
 <th></th>
 <th></th>
 <th></th>
 <th>I. ДОХОДЫ</th>
-<th>310 494 550</th>
+<th>311 889 512</th>
 </tr>
 <tr>
 <th>1</th>
@@ -242,10 +254,10 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 </tr>
 <tr>
 <td></td>
-<td>04</td>
+<td>4</td>
 <td></td>
 <td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>Штрафы,пени,санкции,взыскания,налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
 <td>2 200 000</td>
 </tr>
 <tr>
@@ -253,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>1</td>
 <td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>Штрафы,пени,санкции,взыскания,налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
 <td>2 200 000</td>
 </tr>
 <tr>
@@ -326,7 +338,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th></th>
 <th></th>
 <th>Поступления трансфертов</th>
-<th>124 578 660</th>
+<th>125 973 622</th>
 </tr>
 <tr>
 <td></td>
@@ -334,7 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>124 578 660</td>
+<td>125 973 622</td>
 </tr>
 <tr>
 <td></td>
@@ -342,48 +354,62 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>1</td>
 <td></td>
 <td>Трансферты из республиканского бюджета</td>
-<td>124 578 660</td>
+<td>125 973 622</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="6">Функциональная группа Наименование</td>
-<td rowspan="3">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="2">Программа</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
-<th colspan="5">1</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Сумма (тыс.тенге)</td>
+</tr>
+<tr>
+<th colspan="4">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
 <tr>
-<th colspan="6">II. ЗАТРАТЫ</th>
-<th>295 873 476</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>II. ЗАТРАТЫ</th>
+<th>297 268 438</th>
 </tr>
 <tr>
-<th colspan="2">01</th>
+<th>01</th>
 <th colspan="3"></th>
 <th>Государственные услуги общего характера</th>
 <th>4 031 672</th>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th></th>
-<th>111</th>
-<th></th>
-<th>Аппарат маслихата города республиканского значения</th>
-<th>65 652</th>
+<td></td>
+<td></td>
+<td>111</td>
+<td></td>
+<td>Аппарат маслихата города республиканского значения</td>
+<td>65 652</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -391,7 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>64 852</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -399,7 +425,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>800</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>121</td>
 <td></td>
@@ -407,7 +433,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>2 184 957</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -415,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>924 394</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -423,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>256 547</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -431,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>21 159</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -439,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>91 843</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -447,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>891 014</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -455,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>1 235 738</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -463,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>423 363</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -471,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>812 375</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>356</td>
 <td></td>
@@ -479,7 +505,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>417 671</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -487,7 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>127 076</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -495,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>13 129</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -503,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>104 723</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -511,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>152 136</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -519,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>20 607</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>357</td>
 <td></td>
@@ -527,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>127 654</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -535,13 +561,13 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>127 654</td>
 </tr>
 <tr>
-<th colspan="2">02</th>
+<th>02</th>
 <th colspan="3"></th>
 <th>Оборона</th>
 <th>747 299</th>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>350</td>
 <td></td>
@@ -549,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>117 395</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -557,7 +583,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>15 860</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -565,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>101 535</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>350</td>
 <td></td>
@@ -573,7 +599,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>629 904</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -581,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>32 605</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -589,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>17 591</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -597,37 +623,37 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>579 708</td>
 </tr>
 <tr>
-<th colspan="2">03</th>
+<th>03</th>
 <th colspan="3"></th>
 <th>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</th>
-<th>7 654 353</th>
+<th>7 651 578</th>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>352</td>
 <td></td>
 <td>Исполнительный орган внутренних дел, финансируемый из бюджета города республиканского значения</td>
-<td>6 680 407</td>
+<td>6 677 632</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики в области обеспечения охраны общественного порядка и безопасности на территории города республиканского значения</td>
-<td>5 705 566</td>
+<td>5 707 192</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
 <td>Организация работы медвытрезвителей и подразделений полиции, организующих работу медвытрезвителей</td>
-<td>28 919</td>
+<td>23 416</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -635,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>2 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -643,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>52 675</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -651,7 +677,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>243 187</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -659,15 +685,15 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>156 675</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Организация временной изоляции, адаптации и реабилитации несовершеннолетних</td>
-<td>74 621</td>
+<td>73 921</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -675,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>75 128</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -683,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>25 820</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -691,23 +717,39 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>27 640</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
-<td>Обеспечение охраны общественного порядка во время проведения мероприятий международного значения за счет целевых трансфертов из республиканского бюджета</td>
+<td>Обеспечение охраны общественного порядка во время проведений мероприятий международного значения за счет целевых трансфертов из республиканского бюджета</td>
 <td>285 801</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
 <td></td>
-<td>016</td>
+<td></td>
+<td>16</td>
 <td>Проведение операции «Мак» за счет целевых трансфертов из республиканского бюджета</td>
 <td>2 375</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>019</td>
+<td>Содержание, материально-техническое оснащение дополнительной штатной численности миграционной полиции, документирование оралманов</td>
+<td>1 554</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>020</td>
+<td>Содержание, материально-техническое оснащение Центра временного размещения оралманов и Центра адаптации и интеграции оралманов</td>
+<td>248</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td>368</td>
 <td></td>
@@ -715,7 +757,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>681 896</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -723,7 +765,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>681 896</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>373</td>
 <td></td>
@@ -731,7 +773,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>292 050</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -745,7 +787,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th>04</th>
 <th colspan="3"></th>
 <th>Образование</th>
-<th>40 197 192</th>
+<th>40 194 896</th>
 </tr>
 <tr>
 <td></td>
@@ -889,7 +931,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>360</td>
 <td></td>
 <td>Управление образования города республиканского значения</td>
-<td>504 121</td>
+<td>501 825</td>
 </tr>
 <tr>
 <td></td>
@@ -905,7 +947,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>060</td>
 <td>Подготовка и переподготовка кадров</td>
-<td>371 215</td>
+<td>368 919</td>
 </tr>
 <tr>
 <td></td>
@@ -1015,7 +1057,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th>05</th>
 <th colspan="3"></th>
 <th>Здравоохранение</th>
-<th>33 969 285</th>
+<th>35 319 136</th>
 </tr>
 <tr>
 <td></td>
@@ -1079,15 +1121,15 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>353</td>
 <td></td>
 <td>Управление здравоохранения города республиканского значения</td>
-<td>4 604 912</td>
+<td>4 608 603</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>009</td>
-<td>Оказание медицинской помощи лицам, страдающим туберкулезом, инфекционными, психическими заболеваниями и расстройствами</td>
-<td>2 900 578</td>
+<td>Оказание медицинской помощи лицам, страдающим туберкулезом, инфекционными заболеваниями, психическими расстройствами и расстройствами поведения, в том числе связанные с употреблением психоактивных веществ</td>
+<td>2 904 269</td>
 </tr>
 <tr>
 <td></td>
@@ -1247,7 +1289,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>373</td>
 <td></td>
 <td>Управление строительства города республиканского значения</td>
-<td>16 120 093</td>
+<td>17 466 253</td>
 </tr>
 <tr>
 <td></td>
@@ -1271,13 +1313,13 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>038</td>
 <td>Строительство и реконструкция объектов здравоохранения</td>
-<td>15 103 591</td>
+<td>16 449 751</td>
 </tr>
 <tr>
 <th>06</th>
 <th colspan="3"></th>
 <th>Социальная помощь и социальное обеспечение</th>
-<th>7 627 278</th>
+<th>7 598 978</th>
 </tr>
 <tr>
 <td></td>
@@ -1325,7 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>360</td>
 <td></td>
 <td>Управление образования города республиканского значения</td>
-<td>584 975</td>
+<td>585 675</td>
 </tr>
 <tr>
 <td></td>
@@ -1333,7 +1375,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>016</td>
 <td>Социальное обеспечение сирот, детей, оставшихся без попечения родителей</td>
-<td>584 975</td>
+<td>585 675</td>
 </tr>
 <tr>
 <td></td>
@@ -1373,7 +1415,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>355</td>
 <td></td>
 <td>Управление занятости и социальных программ города республиканского значения</td>
-<td>4 808 652</td>
+<td>4 779 652</td>
 </tr>
 <tr>
 <td></td>
@@ -1381,7 +1423,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>003</td>
 <td>Программа занятости</td>
-<td>877 944</td>
+<td>848 944</td>
 </tr>
 <tr>
 <td></td>
@@ -1503,11 +1545,14 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>Материально-техническое оснащение государственных органов</td>
 <td>7 200</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <th>07</th>
 <th colspan="3"></th>
 <th>Жилищно-коммунальное хозяйство</th>
-<th>37 566 686</th>
+<th>37 566 678</th>
 </tr>
 <tr>
 <td></td>
@@ -1531,7 +1576,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>373</td>
 <td></td>
 <td>Управление строительства города республиканского значения</td>
-<td>22 909 230</td>
+<td>22 909 222</td>
 </tr>
 <tr>
 <td></td>
@@ -1547,7 +1592,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>017</td>
 <td>Развитие, обустройство и (или) приобретение инженерно-коммуникационной инфраструктуры</td>
-<td>15 619 546</td>
+<td>15 619 538</td>
 </tr>
 <tr>
 <td></td>
@@ -1749,14 +1794,11 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>Развитие благоустройства города</td>
 <td>1 223 943</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <th>08</th>
 <th colspan="3"></th>
 <th>Культура, спорт, туризм и информационное пространство</th>
-<th>17 526 271</th>
+<th>17 602 271</th>
 </tr>
 <tr>
 <td></td>
@@ -1884,7 +1926,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>373</td>
 <td></td>
 <td>Управление строительства города республиканского значения</td>
-<td>11 327 686</td>
+<td>11 403 686</td>
 </tr>
 <tr>
 <td></td>
@@ -1892,7 +1934,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>015</td>
 <td>Развитие объектов спорта</td>
-<td>11 327 686</td>
+<td>11 403 686</td>
 </tr>
 <tr>
 <td></td>
@@ -2074,7 +2116,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th>09</th>
 <th colspan="3"></th>
 <th>Топливно-энергетический комплекс и недропользование</th>
-<th>14 475 224</th>
+<th>14 472 012</th>
 </tr>
 <tr>
 <td></td>
@@ -2082,7 +2124,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>371</td>
 <td></td>
 <td>Управление энергетики и коммунального хозяйства города республиканского значения</td>
-<td>14 475 224</td>
+<td>14 472 012</td>
 </tr>
 <tr>
 <td></td>
@@ -2090,7 +2132,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>012</td>
 <td>Развитие теплоэнергетической системы</td>
-<td>14 475 224</td>
+<td>14 472 012</td>
 </tr>
 <tr>
 <th>10</th>
@@ -2186,6 +2228,9 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>Проведение противоэпизоотических мероприятий</td>
 <td>4 670</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <th>11</th>
 <th colspan="3"></th>
@@ -2446,7 +2491,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th>15</th>
 <th colspan="3"></th>
 <th>Трансферты</th>
-<th>66 261 312</th>
+<th>66 267 014</th>
 </tr>
 <tr>
 <td></td>
@@ -2454,7 +2499,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td>356</td>
 <td></td>
 <td>Управление финансов города республиканского значения</td>
-<td>66 261 312</td>
+<td>66 267 014</td>
 </tr>
 <tr>
 <td></td>
@@ -2462,7 +2507,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>006</td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>215 504</td>
+<td>221 020</td>
 </tr>
 <tr>
 <td></td>
@@ -2478,7 +2523,7 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <td></td>
 <td>024</td>
 <td>Целевые текущие трансферты в вышестоящие бюджеты в связи с передачей функций государственных органов из нижестоящего уровня государственного управления в вышестоящий</td>
-<td>10 995 882</td>
+<td>10 996 068</td>
 </tr>
 <tr>
 <td></td>
@@ -2497,12 +2542,12 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th>343 000</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бюджетные кредиты</th>
-<th>393 000</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджетные кредиты</td>
+<td>393 000</td>
 </tr>
 <tr>
 <th>13</th>
@@ -2583,6 +2628,14 @@ source: https://zan.gov.kz/client/#!/doc/49432/rus/18.11.2010
 <th></th>
 <th>Прочие</th>
 <th>13 580 533</th>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>13 580 533</td>
 </tr>
 <tr>
 <td></td>
