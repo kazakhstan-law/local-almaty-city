@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62400/kaz/04.04.2012
+source: https://zan.gov.kz/client/#!/doc/62400/kaz/22.05.2012
 ---
 
 ## АЛМАТЫ ҚАЛАСЫНЫҢ 2013 ЖЫЛҒА АРНАЛҒАН БЮДЖЕТІ
