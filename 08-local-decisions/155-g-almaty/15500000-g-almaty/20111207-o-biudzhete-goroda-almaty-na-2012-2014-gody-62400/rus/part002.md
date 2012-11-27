@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62400/rus/23.10.2012
+source: https://zan.gov.kz/client/#!/doc/62400/rus/27.11.2012
 ---
 
 ## БЮДЖЕТ ГОРОДА АЛМАТЫ НА 2013 ГОД
