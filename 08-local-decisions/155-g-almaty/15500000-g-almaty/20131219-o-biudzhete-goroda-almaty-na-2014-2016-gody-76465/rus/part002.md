@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76465/rus/19.12.2013
+source: https://zan.gov.kz/client/#!/doc/76465/rus/18.02.2014
 ---
 
 ## БЮДЖЕТ ГОРОДА АЛМАТЫ НА 2015 ГОД
