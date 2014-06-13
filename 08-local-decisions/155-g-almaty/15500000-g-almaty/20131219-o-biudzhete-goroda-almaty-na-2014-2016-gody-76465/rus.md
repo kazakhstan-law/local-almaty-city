@@ -1,5 +1,5 @@
 ---
-version_id: AI76465_6
+version_id: AI76465_8
 act_code: '76465'
 language: rus
 title: О бюджете города Алматы на 2014 - 2016 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '155000000002'
 approval_date: 2013-12-19
-version_date: 2014-05-16
+version_date: 2014-06-13
 registry_number: '76465'
-source: https://zan.gov.kz/client/#!/doc/76465/rus/16.05.2014
+caused_by:
+  code: '80985'
+  title: О внесении изменений в решение XXIII-й сессии маслихата города Алматы V-го созыва от 19 декабря 2013 года № 188 "О бюджете города Алматы на 2014-2016 годы"
+  link: https://zan.gov.kz/client/#!/doc/80985/rus
+source: https://zan.gov.kz/client/#!/doc/76465/rus/13.06.2014
 ---
 
 # О бюджете города Алматы на 2014 - 2016 годы
