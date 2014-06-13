@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76465/rus/16.05.2014
+source: https://zan.gov.kz/client/#!/doc/76465/rus/13.06.2014
 ---
 
 # О бюджете города Алматы на 2014 - 2016 годы
