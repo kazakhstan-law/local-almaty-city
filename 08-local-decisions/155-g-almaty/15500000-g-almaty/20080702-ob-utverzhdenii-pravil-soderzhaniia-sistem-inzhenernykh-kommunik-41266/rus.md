@@ -1,5 +1,5 @@
 ---
-version_id: '41266_180441'
+version_id: '41266_180455'
 act_code: '41266'
 language: rus
 title: Об утверждении Правил содержания систем инженерных коммуникации водоснабжения и канализации в городе Алматы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '155000000002'
 approval_date: 2008-07-02
-version_date: 2008-07-02
+version_date: 2015-03-17
 registry_number: '41266'
-source: https://zan.gov.kz/client/#!/doc/41266/rus/02.07.2008
+caused_by:
+  code: '101039'
+  title: О приостановлении действий некоторых решений маслихата города Алматы
+  link: https://zan.gov.kz/client/#!/doc/101039/rus
+source: https://zan.gov.kz/client/#!/doc/41266/rus/17.03.2015
 ---
 
 # Об утверждении Правил содержания систем инженерных коммуникации водоснабжения и канализации в городе Алматы
