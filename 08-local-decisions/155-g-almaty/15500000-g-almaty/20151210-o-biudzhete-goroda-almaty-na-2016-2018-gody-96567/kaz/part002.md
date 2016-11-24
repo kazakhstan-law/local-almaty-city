@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96567/kaz/26.09.2016
+source: https://zan.gov.kz/client/#!/doc/96567/kaz/24.11.2016
 ---
 
 > *V сайланған Алматы қаласы*  
