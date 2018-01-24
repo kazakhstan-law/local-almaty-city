@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30558/kaz/03.03.2017
+source: https://zan.gov.kz/client/#!/doc/30558/kaz/24.01.2018
 ---
 
 ## С-1, С-2, С-3 аймақтары
