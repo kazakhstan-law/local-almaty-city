@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/126914/kaz/23.04.2019
+source: https://zan.gov.kz/client/#!/doc/126914/kaz/27.05.2019
 ---
 
 > *Алматы қаласы мәслихатының*  
