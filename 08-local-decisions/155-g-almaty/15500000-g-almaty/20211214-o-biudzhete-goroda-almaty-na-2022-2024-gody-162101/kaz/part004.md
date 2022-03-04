@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162101/kaz/27.01.2022
+source: https://zan.gov.kz/client/#!/doc/162101/kaz/04.03.2022
 ---
 
 ## Алматы қаласының 2024 жылға арналған бюджеті
