@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30558/kaz/14.09.2018
+source: https://zan.gov.kz/client/#!/doc/30558/kaz/20.06.2022
 ---
 
 > *ІІІ сайланған Алматы қаласы*  
