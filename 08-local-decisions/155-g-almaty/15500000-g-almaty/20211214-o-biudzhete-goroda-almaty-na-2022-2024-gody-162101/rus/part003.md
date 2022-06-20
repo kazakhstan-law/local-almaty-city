@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/162101/rus/04.03.2022
+source: https://zan.gov.kz/client/#!/doc/162101/rus/20.06.2022
 ---
 
 ## Бюджет города Алматы на 2023 год
