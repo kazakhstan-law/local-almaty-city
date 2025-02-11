@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/30558/kaz/20.06.2022
+repealed_on: 2025-03-01
+repealed_by:
+  code: '207129'
+  title: Алматы қаласы мәслихатының кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/207129/kaz
 ---
 
 > *ІІІ сайланған Алматы қаласы*  

@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/30558/rus/20.06.2022
+repealed_on: 2025-03-01
+repealed_by:
+  code: '207129'
+  title: О признании утратившими силу некоторых решений маслихата города Алматы
+  link: https://zan.gov.kz/client/#!/doc/207129/rus
 ---
 
 > *Утвержден*  
