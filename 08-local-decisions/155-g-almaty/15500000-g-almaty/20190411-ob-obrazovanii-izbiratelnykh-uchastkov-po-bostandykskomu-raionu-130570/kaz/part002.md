@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/130570/kaz/20.08.2024
+source: https://zan.gov.kz/client/#!/doc/130570/kaz/29.05.2025
 ---
 
 > *Алматы қаласы*  
