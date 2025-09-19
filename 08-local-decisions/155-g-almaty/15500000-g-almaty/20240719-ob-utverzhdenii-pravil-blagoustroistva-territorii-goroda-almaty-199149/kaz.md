@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/199149/kaz/19.07.2024
+source: https://zan.gov.kz/client/#!/doc/199149/kaz/19.09.2025
 ---
 
 # Алматы қаласының аумағын абаттандыру қағидаларын бекіту туралы
