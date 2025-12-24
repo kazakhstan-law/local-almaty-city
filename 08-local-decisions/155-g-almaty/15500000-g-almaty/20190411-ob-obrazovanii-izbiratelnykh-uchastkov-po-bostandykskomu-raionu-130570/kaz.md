@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/130570/kaz/29.05.2025
+source: https://zan.gov.kz/client/#!/doc/130570/kaz/24.12.2025
 ---
 
 # Алматы қаласы Бостандық ауданы бойынша сайлау учаскелерін құру туралы
