@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/137585/kaz/22.04.2026
+source: https://zan.gov.kz/client/#!/doc/137585/kaz/16.06.2026
 ---
 
 # Алматы қаласы Медеу ауданы бойынша сайлау учаскелерін құру туралы
