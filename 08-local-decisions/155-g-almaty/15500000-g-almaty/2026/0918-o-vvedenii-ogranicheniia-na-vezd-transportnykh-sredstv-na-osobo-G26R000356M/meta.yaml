@@ -1,0 +1,25 @@
+key: G26R000356M
+akn: /akn/kz/act/2026-09-18/G26R000356M
+act_code: '230369'
+requisite: Решение внеочередной LII сессии маслихата города Алматы VIII созыва от 18 сентября 2026 года № 356
+title:
+  rus: О введении ограничения на въезд транспортных средств на особо охраняемую природную территорию
+  kaz: Ерекше қорғалатын табиғи аумаққа көлік құралдарының кіруіне шектеу енгізу туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-09-18
+in_force_from: 2026-09-28
+approved_by:
+- '155000000002'
+versions:
+- date: 2026-09-18
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-09-18
+  rus: 2026-09-18
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/230369/kaz/18.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/230369/rus/18.09.2026
